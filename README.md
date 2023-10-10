@@ -31,7 +31,7 @@ Add more programs as needed.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/java-placement-programs.git
+   git clone https://github.com/abdul-1432/Java_Logical_Programs_for_Placements/tree/main
    ```
 
 2. Navigate to the directory:
